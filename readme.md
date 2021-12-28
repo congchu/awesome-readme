@@ -10,7 +10,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [ai/size-limit](https://github.com/ai/size-limit#readme) - 프로젝트 로고, 명확한 설명, 스크린샷, 단계별 설치 지침.
 - [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3#readme) - 프로젝트 로고. 프로젝트가 하는 일에 대한 명확한 설명. 데모 스크린샷. 쉬운 탐색을 위한 목차. 스크린샷이 있는 쉬운 설치 및 설정 섹션. 더 읽을 수 있는 링크..
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide#readme) - 배지, 프로젝트 GIF, 간결한 설명, 빠른 링크, 단계별 설치 지침.
-- [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup#readme) - Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
+- [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup#readme) - 프로젝트가 하는 일에 대한 명확한 설명. GIF 데모. 쉬운 탐색을 위한 목차. 배지. 더 읽을 수 있는 링크. 간단한 설치 지침.
 - [alichtman/stronghold](https://github.com/alichtman/stronghold#readme) - 프로젝트가 하는 일에 대한 명확한 설명. GIF 데모. 쉬운 탐색을 위한 목차. 배지. 더 읽을 수 있는 링크. 간단한 설치 지침.
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify#readme) - 프로젝트 로고. 프로젝트가 하는 일에 대한 명확한 설명. GIF 데모. 쉬운 탐색을 위한 목차. 배지. 더 읽을 수 있는 링크. 간단한 설치 지침.
 - [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant#readme) -여러 배지. 깔끔한 로고. 간단한 설치 지침. 회로도와 함께 프로젝트에 대한 명확한 개요. GIF 데모. 광범위한 코드 예제.
@@ -57,18 +57,18 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 
 ## Tools
 
-- [Amazing GitHub Template](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
-- [Common Readme](https://github.com/noffle/common-readme#readme) - A common readme style for Node. Includes a guide and a readme generator.
-- [Feedmereadmes](https://github.com/lappleapple/feedmereadmes#readme) - README editing and project analysis/feedback.
-- [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame#readme) - Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour.
-- [Make a README](https://www.makeareadme.com/) - A guide to writing READMEs. Includes an editable template with live Markdown rendering.
-- [README best practices](https://github.com/jehna/readme-best-practices#readme) - A place to copy-paste your README.md from
-- [readme-md-generator](https://github.com/kefranabg/readme-md-generator#readme) - A CLI that generates beautiful README.md files
-- [Readme.so](https://readme.so/) - A simple editor that allows you to quickly add and customize all the sections you need for your project's readme.
-- [READMINE](https://github.com/mhucka/readmine) - A thorough, clear and self-describing README file template for software projects; copy it and edit it as needed.
-- [StackEdit](https://stackedit.io/) - A user-friendly online editor that allows you to quickly customize all the sections you need for your project's readme.
-- [Standard Readme](https://github.com/RichardLitt/standard-readme#readme) - A standard README style specification. Has a generator to help create spec-compliant READMEs, too.
-- [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme) - Simple template to help you cover all the basics.
+- [Amazing GitHub Template](https://github.com/dec0dOS/amazing-github-template#readme) - 유용한 README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub 문제, 풀 요청 및 작업 템플릿을 사용하여 프로젝트를 빠르게 시작할 수 있습니다.
+- [Common Readme](https://github.com/noffle/common-readme#readme) - Node.js의 일반적인 추가 정보 스타일입니다. 안내서와 추가 정보 생성기가 포함되어 있습니다.
+- [Feedmereadmes](https://github.com/lappleapple/feedmereadmes#readme) - README 편집 및 프로젝트 분석/피드백.
+- [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame#readme) - README에서 repo 기여자에게 인정을 표시하는 데 도움이 됩니다. 신규/트렌드/최고 기여자를 제공합니다. 매시간 업데이트됩니다.
+- [Make a README](https://www.makeareadme.com/) - README 작성 가이드. 라이브 Markdown 렌더링이 포함된 편집 가능한 템플릿이 포함되어 있습니다.
+- [README best practices](https://github.com/jehna/readme-best-practices#readme) - README.md를 복사하여 붙여넣을 수 있는 위치
+- [readme-md-generator](https://github.com/kefranabg/readme-md-generator#readme) - 아름다운 README.md 파일을 생성하는 CLI
+- [Readme.so](https://readme.so/) - 프로젝트의 readme에 필요한 모든 섹션을 빠르게 추가하고 사용자 지정할 수 있는 간단한 편집기입니다.
+- [READMINE](https://github.com/mhucka/readmine) - 소프트웨어 프로젝트를 위한 철저하고 명확하며 자체 설명적인 README 파일 템플릿. 복사하고 필요에 따라 편집하십시오.
+- [StackEdit](https://stackedit.io/) - 프로젝트 추가 정보에 필요한 모든 섹션을 빠르게 사용자 지정할 수 있는 사용자 친화적인 온라인 편집기입니다.
+- [Standard Readme](https://github.com/RichardLitt/standard-readme#readme) - 표준 README 스타일 사양입니다. 사양 준수 README를 생성하는 데 도움이 되는 생성기도 있습니다.
+- [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme) - 모든 기본 사항을 다루는 데 도움이 되는 간단한 템플릿입니다.
 
 ## Creating GIFs
 
