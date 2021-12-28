@@ -7,66 +7,45 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 
 ## Examples
 
-- [ai/size-limit](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
-- [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3#readme) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
+- [ai/size-limit](https://github.com/ai/size-limit#readme) - 프로젝트 로고, 명확한 설명, 스크린샷, 단계별 설치 지침.
+- [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3#readme) - 프로젝트 로고. 프로젝트가 하는 일에 대한 명확한 설명. 데모 스크린샷. 쉬운 탐색을 위한 목차. 스크린샷이 있는 쉬운 설치 및 설정 섹션. 더 읽을 수 있는 링크..
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide#readme) - 배지, 프로젝트 GIF, 간결한 설명, 빠른 링크, 단계별 설치 지침.
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup#readme) - Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
-- [alichtman/stronghold](https://github.com/alichtman/stronghold#readme) - Project logo. Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
-- [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify#readme) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
-- [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant#readme) - Multiple badges. Clean logo. Simple install instructions. Clear overview of the project accompanied by a schematic. GIF demo. Extensive code examples.
-- [aregtech/areg-sdk](https://github.com/aregtech/areg-sdk#readme) - Description of the project and use cases with explanation graphics. Build with multiple tools and integration instructions, reference to the guidance to create the first project. Examples. Project logo. Multiple badges. Headlines with graphics. TOC for easy navigation.
-- [Armync/Arminc-AutoExec](https://github.com/ArmynC/ArminC-AutoExec/#readme) - Rich Markdown functions, modern layout, clear description and compliant with the recommended community standards.
-- [athityakumar/colorls](https://github.com/athityakumar/colorls#readme) - Multiple badges. Clean screenshots. Simple install instructions. TOC for easy navigation. Good contributor guidelines.
-- [ccostan/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig#readme) - Project Banner. Badges. Easy navigation.
-- [choojs/choo](https://github.com/choojs/choo#readme) - Badges, clean, clear. Beautiful little menu above the fold with useful links. An FAQ inside of it for the main questions. Backers. Good language.
-- [chroline/well_app](https://github.com/chroline/well_app#readme) - Features attention-grabbing project thumbnail with clean badges, as well as download information and quick navigation links. Organized into multiple descriptive sections, each of which have a title with a yellow emoji. Includes details about the project itself, as well as the technologies used and how to contribute.
-- [create-go-app/cli](https://github.com/create-go-app/cli#readme) - Clean project logo. Useful badges (version, code style, test cover, docs). Clear readme with quickstart, understandable installation and usage manual, video screencast, ToC with well-documented project features (with a demo recording of the work in the terminal), project philosophy notes ("the why another"), most frequently asked questions, and more.
-- [Day8/re-frame](https://github.com/Day8/re-frame#readme) - Badges, logo, TOC, etc. Stands out by being a giant, well-written essay about the tech, how to use it, the philosophy behind it, and how it fits into the greater ecosystem.
-- [dowjones/react-dropdown-tree-select](https://github.com/dowjones/react-dropdown-tree-select#readme) - Clear readme with GIF screenshot for quick demo. Multiple badges, concise ToC, online playground, storybook, detailed description and more.
-- [easybase/easybase-react](https://github.com/easybase/easybase-react#readme) - Project banner and logo. Badges. Expandable walkthrough sections. Concise description and purpose. TOC for easy navigation. GIFs for installation demo. Multiple informative visuals.
-- [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator#readme) - TOC for easy navigation. Concise project description. Installation and usage sections. Output example. Great feature overview. List of alternatives. FAQ.
-- [gitpoint/git-point](https://github.com/gitpoint/git-point#readme) - Clear description. Project Logo. App Store logos. TOC. Clean screenshots. List of features. Detailed installation process. Landing Page.
-- [gofiber/fiber](https://github.com/gofiber/fiber#readme) - Clean project logo. Useful badges and links (languages switcher, code style, test cover, docs, Discord channel). Clear description of what the project does with quickstart, benchmark charts, well-documented code examples (with the ability to hide long content), project philosophy notes ("the why of project"), tables with project addons, list of contributors, star growth statistics, and more.
-- [Hexworks/Zircon](https://github.com/Hexworks/zircon#readme) - Dogfood in readme. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
-- [iharsh234/WebApp](https://github.com/iharsh234/WebApp#readme) - Project landing page. Clear description of what the project does. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses and a mobile demo section.
-- [iterative/dvc](https://github.com/iterative/dvc#readme) - ReStructuredText format example, PyPi compatible. Logo, custom website-like menu. Smooth how-it-works animation. Badges. Nice contribution section with the hall-of-fame.
-- [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie#readme) - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
-- [karan/joe](https://github.com/karan/joe#readme) - Project logo. Clear description of what the project does. GIF demo. Easy install and usage sections.
-- [L0garithmic/FastColabCopy](https://github.com/L0garithmic/FastColabCopy#readme) - Project logo. Minimalist description. Badges. GIF demo. About The Project. How To Use. Examples. Credits. Additional Examples. 
-- [ma-shamshiri/Human-Activity-Recognition](https://github.com/ma-shamshiri/Human-Activity-Recognition#readme) - Beautiful table of contents. Project logo. Animated project banner. Complete project folder structure. Clear description of what the project does. Nice contributors’ section. Easy navigation.
-- [ma-shamshiri/Pacman-Game](https://github.com/ma-shamshiri/Pacman-Game#readme) - Beautiful table of contents. Project logo. Animated project banner. Suitable GIFs to display each part of the project. Complete list of project files in the repo along with their function. Complete execution instruction.
-- [ma-shamshiri/Spam-Detector](https://github.com/ma-shamshiri/Spam-Detector#readme) - Complete project file description. Project logo. Animated project banner. Concise project description. Clear execution instruction.
-- [MananTank/radioactive-state](https://github.com/MananTank/radioactive-state#readme) - Badges (version, downloads, coverage, size), Twitter Intent, Project Logo, Feature list, Motivation, Installation, Example with GIFs, Emojis, Collapsible Sections, Live Demos, API detailed usage, FAQs, Chat link.
-- [Martinsos/edlib](https://github.com/Martinsos/edlib#readme) - Informative badges (build, version, publication). Concise description. Feature list. TOC. Screenshots. Concise instructions with examples for building and including in your project. Common code examples to get you started quickly.
-- [ngcolombia/medellin](https://github.com/ngcolombia/medellin#readme) - Project banner. Badges for stats. Well placed emoticons. Contributor's photos.
-- [nhn/tui.editor](https://github.com/nhn/tui.editor#readme) - Project logo. Clear overview of project features with a demo GIF. Badges. TOC for easy navigation. Colorful icons in front of titles.
-- [node-chat](https://github.com/IgorAntun/node-chat#readme) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
-- [NSRare/NSGIF](https://github.com/NSRare/NSGIF#readme) - Project logo. GIF Demo. Usage artwork. Usage code samples.
-- [OliverOverend/gym-simplifiedtetris](https://github.com/OliverOverend/gym-simplifiedtetris#readme) - GIF demo. Short description of the project. Badges. TOC. Installation and usage intructions, with copy-pastable comments and dependencies. Contributing file. Overview of the environments and agents provided.
-- [php-censor/php-censor](https://github.com/php-censor/php-censor#readme) - Multiple badges, project logo, screenshots, step-by-step installing and upgrading instructions, TOC for easy navigation.
-- [PostHog/posthog](https://github.com/PostHog/posthog#readme) - Custom-made section icons, demo GIF, deploy button, profile images for contributors, concise, clear structure, project logo.
-- [priyavrat-misra/xrays-and-gradcam](https://github.com/priyavrat-misra/xrays-and-gradcam#readme) - TOC for easy navigation. Clear introduction of what the project does. Complete list of all files in the repo and what their function is. Usage section. Clean and concise tables.
-- [rayhanadev/rayhanadev](https://github.com/rayhanadev/rayhanadev#readme) - Dynamic statistics. Black and white theme. Polished layout. Quick, skimmable tables with contributions and current projects. Linked technology badges to home website. Secret steganography in an image.
-- [React on lambda](https://github.com/sultan99/react-on-lambda#readme) - Project logo, comics to present the main idea, badges, examples with code snippets, demo projects, api documentations, editor configurations.
-- [React Parallax Tilt](https://github.com/mkosir/react-parallax-tilt#readme) - GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
-- [Rebilly/redoc](https://github.com/Redocly/redoc#readme) - Multiple badges, project logo, live demo link, GIF-animations of the key features, TL;DR usage.
-- [release-it/release-it](https://github.com/release-it/release-it#readme) - Clear overview of project features with a demo GIF. Badges. Expandable TOC. Usage description and examples. Contribution guidelines. Detailed releases.
-- [rstacruz/hicat](https://github.com/rstacruz/hicat#readme) - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts#readme) - Clean project logo. Brief description at top. Sankey diagram, quick links, badges, OS specific icons, TOC, detailed release changelog.
-- [sebyddd/SDVersion](https://github.com/sebyddd/SDVersion#readme) - Project logo. Build badges. Documentation structuring for multiple programming languages. Usage examples.
-- [shama/gaze](https://github.com/shama/gaze#readme) - Project logo. Concise description. Feature list. Usage section. FAQ. Great API documentation. Release history.
-- [sidneycadot/oeis](https://github.com/sidneycadot/oeis#readme) - Overview. List of required dependencies. Complete list of all files in the repo and what their function is. Visual graph of how it all ties together.
-- [sindresorhus/pageres](https://github.com/sindresorhus/pageres#readme) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
-- [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app#readme) - Clean animated screenshot. Customized call to action badge. Usage showcase.
-- [sr6033/lterm](https://github.com/sr6033/lterm#readme) - Clean logo using characters. Brief updates on development. Detailed contribution guidelines. Contribution suggestions.
-- [sulu/sulu](https://github.com/sulu/sulu#readme) - Project logo, useful badges, clear instructions on where to find more information and report bugs, GIF screenshots, nice use of emoticons.
-- [supunlakmal/thismypc](https://github.com/supunlakmal/thismypc#readme) - Project logo. Useful badges. Web site URL. Screenshot. GIF step-by-step instructions for installation. Project folder structure.
-- [teles/array-mixer](https://github.com/teles/array-mixer#readme) - Clean project logo, badges. Table of contents. Contributing section. Many illustrated examples.
-- [thelounge/thelounge](https://github.com/thelounge/thelounge#readme) - Project logo. Useful badges and links (website, docs, demo). Screenshot. Feature list. Step-by-step instructions for installation, development, and testing. Link to the contributing guide. Good mobile summary.
-- [vhesener/Closures](https://github.com/vhesener/Closures#readme) - Project logo, cognitive funnel, animated examples. Color coordinated. Clean documentation.
-- [xnbox/DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP#readme) - Original hero section. Clear navigation. Minimalist design. Appendices.
-- [zenml-io/zenml](https://github.com/zenml-io/zenml#readme) - Clean project logo. Useful TOC. Clear code examples amongst feature list. Quickstart example.
-
+- [alichtman/stronghold](https://github.com/alichtman/stronghold#readme) - 프로젝트가 하는 일에 대한 명확한 설명. GIF 데모. 쉬운 탐색을 위한 목차. 배지. 더 읽을 수 있는 링크. 간단한 설치 지침.
+- [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify#readme) - 프로젝트 로고. 프로젝트가 하는 일에 대한 명확한 설명. GIF 데모. 쉬운 탐색을 위한 목차. 배지. 더 읽을 수 있는 링크. 간단한 설치 지침.
+- [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant#readme) -여러 배지. 깔끔한 로고. 간단한 설치 지침. 회로도와 함께 프로젝트에 대한 명확한 개요. GIF 데모. 광범위한 코드 예제.
+- [aregtech/areg-sdk](https://github.com/aregtech/areg-sdk#readme) -설명 그래픽과 함께 프로젝트 및 사용 사례에 대한 설명입니다. 여러 도구 및 통합 지침을 사용하여 빌드하고 지침을 참조하여 첫 번째 프로젝트를 만듭니다. 예. 프로젝트 로고. 여러 배지. 그래픽이 있는 헤드라인. 쉬운 탐색을 위한 목차.
+- [Armync/Arminc-AutoExec](https://github.com/ArmynC/ArminC-AutoExec/#readme) - 풍부한 마크다운 기능, 현대적인 레이아웃, 명확한 설명 및 권장 커뮤니티 표준 준수.
+- [athityakumar/colorls](https://github.com/athityakumar/colorls#readme) - 여러 배지. 깨끗한 스크린샷. 간단한 설치 지침. 쉬운 탐색을 위한 목차. 좋은 기여자 지침.
+- [ccostan/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig#readme) - 프로젝트 배너. 배지. 쉬운 탐색.
+- [choojs/choo](https://github.com/choojs/choo#readme) - 배지, 깨끗하고 투명합니다. 유용한 링크가 있는 스크롤 없이 볼 수 있는 아름다운 작은 메뉴. 주요 질문에 대한 FAQ입니다. 후원자. 좋은 언어.
+- [chroline/well_app](https://github.com/chroline/well_app#readme) - 깔끔한 배지와 다운로드 정보 및 빠른 탐색 링크가 있는 눈길을 끄는 프로젝트 썸네일을 제공합니다. 여러 설명 섹션으로 구성되어 있으며 각 섹션에는 노란색 이모티콘이 있는 제목이 있습니다. 프로젝트 자체, 사용된 기술 및 기여 방법에 대한 세부 정보가 포함됩니다.
+- [create-go-app/cli](https://github.com/create-go-app/cli#readme) - 프로젝트 로고를 정리합니다. 유용한 배지(버전, 코드 스타일, 테스트 커버, 문서). 빠른 시작이 포함된 명확한 추가 정보, 이해하기 쉬운 설치 및 사용 설명서, 비디오 스크린캐스트, 잘 문서화된 프로젝트 기능이 포함된 목차(터미널에서 작업의 데모 녹음 포함), 프로젝트 철학 노트("다른 이유"), 가장 자주 묻는 질문, 그리고 더..
+- [Day8/re-frame](https://github.com/Day8/re-frame#readme) - 배지, 로고, 목차 등. 기술, 사용 방법, 그 이면의 철학 및 더 큰 생태계에 어떻게 들어맞는지에 대해 잘 쓰여진 거대 에세이로 눈에 띕니다.
+- [dowjones/react-dropdown-tree-select](https://github.com/dowjones/react-dropdown-tree-select#readme) - 빠른 데모를 위해 GIF 스크린샷으로 readme 지우기. 여러 배지, 간결한 ToC, 온라인 플레이그라운드, 스토리북, 자세한 설명 등.
+- [easybase/easybase-react](https://github.com/easybase/easybase-react#readme) - 프로젝트 배너 및 로고. 배지. 확장 가능한 연습 섹션. 간결한 설명과 목적. 쉬운 탐색을 위한 목차. 설치 데모용 GIF. 여러 유익한 시각 자료.
+- [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator#readme) - 쉬운 탐색을 위한 목차. 간결한 프로젝트 설명. 설치 및 사용 섹션. 출력 예. 훌륭한 기능 개요. 대안 목록. 자주하는 질문.
+- - [gitpoint/git-point](https://github.com/gitpoint/git-point#readme) - 명확한 설명. 프로젝트 로고. 앱 스토어 로고. 목차. 깨끗한 스크린샷. 기능 목록입니다. 자세한 설치 과정. 방문 페이지.
+- [gofiber/fiber](https://github.com/gofiber/fiber#readme) - 깨끗한 프로젝트 로고. 유용한 배지 및 링크(언어 전환기, 코드 스타일, 테스트 표지, 문서, Discord 채널). 빠른 시작으로 프로젝트가 수행하는 작업에 대한 명확한 설명, 벤치마크 차트, 잘 문서화된 코드 예제(긴 콘텐츠를 숨길 수 있는 기능 포함), 프로젝트 철학 노트("프로젝트의 이유"), 프로젝트 애드온이 있는 표, 기여자 목록, 별표 성장 통계 등.
+- [Hexworks/Zircon](https://github.com/Hexworks/zircon#readme) - Readme의 Dogfood. 프로젝트가 하는 일에 대한 명확한 설명. 데모 스크린샷. 쉬운 탐색을 위한 목차. 스크린샷이 있는 쉬운 설치 및 설정 섹션. 더 읽을 수 있는 링크.
+- [iharsh234/WebApp](https://github.com/iharsh234/WebApp#readme) - 프로젝트 랜딩 페이지. 프로젝트가 하는 일에 대한 명확한 설명. 데모 스크린샷. 간단한 설치 및 사용 섹션. 일반적으로 사용되는 예제 섹션과 모바일 데모 섹션이 포함되어 있습니다.
+- [iterative/dvc](https://github.com/iterative/dvc#readme) - ReStructuredText 형식의 예, PyPi 호환. 로고, 사용자 정의 웹 사이트와 같은 메뉴. 부드러운 작동 방식 애니메이션. 배지. 명예의 전당이 있는 멋진 기여 섹션.
+- [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie#readme) - 프로젝트가 하는 일에 대한 설명. 데모 스크린샷. 프로젝트 로고. 쉬운 탐색을 위한 목차. 배지를 만드세요. 빠르고 간단한 설치 및 사용 섹션. 예제 섹션이 포함되어 있습니다.
+- [karan/joe](https://github.com/karan/joe#readme) - 프로젝트 로고. 프로젝트가 하는 일에 대한 명확한 설명. GIF 데모. 쉬운 설치 및 사용 섹션.
+- [L0garithmic/FastColabCopy](https://github.com/L0garithmic/FastColabCopy#readme) - 프로젝트 로고. 미니멀리스트 설명. 배지. GIF 데모. 프로젝트 소개. 사용하는 방법. 예. 크레딧. 추가 예.
+- [ma-shamshiri/Human-Activity-Recognition](https://github.com/ma-shamshiri/Human-Activity-Recognition#readme) - 아름다운 목차. 프로젝트 로고. 애니메이션 프로젝트 배너입니다. 프로젝트 폴더 구조를 완료하십시오. 프로젝트가 하는 일에 대한 명확한 설명. 멋진 기여자 섹션. 쉬운 탐색.
+- [ma-shamshiri/Pacman-Game](https://github.com/ma-shamshiri/Pacman-Game#readme) - 아름다운 목차. 프로젝트 로고. 애니메이션 프로젝트 배너입니다. 프로젝트의 각 부분을 표시하는 데 적합한 GIF. 기능과 함께 리포지토리에 있는 프로젝트 파일의 전체 목록입니다. 실행 명령을 완료하십시오.
+- [ma-shamshiri/Spam-Detector](https://github.com/ma-shamshiri/Spam-Detector#readme) - 전체 프로젝트 파일 설명. 프로젝트 로고. 애니메이션 프로젝트 배너입니다. 간결한 프로젝트 설명. 실행 명령을 지웁니다.
+- [MananTank/radioactive-state](https://github.com/MananTank/radioactive-state#readme) - 배지(버전, 다운로드, 적용 범위, 크기), Twitter 의도, 프로젝트 로고, 기능 목록, 동기 부여, 설치, GIF, 이모티콘, 접을 수 있는 섹션, 라이브 데모, API 세부 사용법, FAQ, 채팅 링크의 예.
+- [Martinsos/edlib](https://github.com/Martinsos/edlib#readme) - 유익한 배지(빌드, 버전, 출판). 간결한 설명. 기능 목록. 목차. 스크린샷. 프로젝트에 구축하고 포함하기 위한 예제와 함께 간결한 지침. 빠르게 시작할 수 있는 일반적인 코드 예제.
+- [ngcolombia/medellin](https://github.com/ngcolombia/medellin#readme) - 프로젝트 배너입니다. 통계 배지. 잘 배치된 이모티콘. 기여자의 사진.
+- [nhn/tui.editor](https://github.com/nhn/tui.editor#readme) - 프로젝트 로고. 데모 GIF로 프로젝트 기능에 대한 명확한 개요. 배지. 쉬운 탐색을 위한 목차. 제목 앞의 다채로운 아이콘입니다.
+- [node-chat](https://github.com/IgorAntun/node-chat#readme) - 프로젝트 스크린샷. 유익한 배지. 명확한 설명. 쉬운 설치/사용 지침. 라이브 데모.
+- [NSRare/NSGIF](https://github.com/NSRare/NSGIF#readme) - 프로젝트 로고. GIF 데모. 사용법 삽화. 사용 코드 샘플.
+- [OliverOverend/gym-simplifiedtetris](https://github.com/OliverOverend/gym-simplifiedtetris#readme) - GIF 데모. 프로젝트에 대한 간략한 설명입니다. 배지. 목차. 복사 붙여넣기 가능한 주석 및 종속성이 있는 설치 및 사용 지침. 기여 파일. 제공된 환경 및 에이전트 개요.
+- [php-censor/php-censor](https://github.com/php-censor/php-censor#readme) - 다중 배지, 프로젝트 로고, 스크린샷, 단계별 설치 및 업그레이드 지침, TOC 쉬운 탐색.
+- [PostHog/posthog](https://github.com/PostHog/posthog#readme) - 맞춤형 섹션 아이콘, 데모 GIF, 배포 버튼, 기여자를 위한 프로필 이미지, 간결하고 명확한 구조, 프로젝트 로고.
+- [priyavrat-misra/xrays-and-gradcam](https://github.com/priyavrat-misra/xrays-and-gradcam#readme) - 쉬운 탐색을 위한 목차. 프로젝트가 하는 일에 대한 명확한 소개. t에 있는 모든 파일의 전체 목록
 
 ## Articles
 
